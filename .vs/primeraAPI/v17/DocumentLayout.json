@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CESUN\\DESARROLLO DE SOFTWARE BACKEND III (OPTATIVA)\\INTENTO V5\\NUEVO INTENTO 2\\primeraAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5090F52-3DD4-4BB6-9C29-D184A9B4BEF1}|primeraAPI.csproj|d:\\cesun\\desarrollo de software backend iii (optativa)\\intento v5\\nuevo intento 2\\primeraapi\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5090F52-3DD4-4BB6-9C29-D184A9B4BEF1}|primeraAPI.csproj|solutionrelative:controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccessController.cs",
+              "DocumentMoniker": "D:\\CESUN\\DESARROLLO DE SOFTWARE BACKEND III (OPTATIVA)\\INTENTO V5\\NUEVO INTENTO 2\\primeraAPI\\Controllers\\AccessController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccessController.cs",
+              "ToolTip": "D:\\CESUN\\DESARROLLO DE SOFTWARE BACKEND III (OPTATIVA)\\INTENTO V5\\NUEVO INTENTO 2\\primeraAPI\\Controllers\\AccessController.cs",
+              "RelativeToolTip": "Controllers\\AccessController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T23:23:36.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
